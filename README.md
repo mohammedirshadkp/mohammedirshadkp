@@ -1,7 +1,13 @@
-<h5 align="left">Hi Hello World! I'm Mohammed Irshad, a passionate Flutter developer on a journey to craft innovative and seamless mobile experiences.</h5>
+<h5 align="left">✋Hi Hello World! I'm Mohammed Irshad, a passionate Flutter developer on a journey to craft innovative and seamless mobile experiences.</h5>
 <h5 align="left">🌟 As an advocate for best practices, I'm committed to delivering high-quality apps that marry functionality with aesthetics. From concept to deployment, I enjoy every step of the development process.
 </h5>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammedirshadkp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedirshadkp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -36,4 +42,13 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 ###
