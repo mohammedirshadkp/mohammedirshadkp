@@ -1,7 +1,6 @@
 <h5 align="left">✋Hi Hello World! I'm Mohammed Irshad, a passionate Flutter developer on a journey to craft innovative and seamless mobile experiences.</h5>
 <h5 align="left">🌟 As an advocate for best practices, I'm committed to delivering high-quality apps that marry functionality with aesthetics. From concept to deployment, I enjoy every step of the development process.
 </h5>
-
 ###
 
 <div align="center">
