@@ -54,9 +54,9 @@
 <img src="https://media.giphy.com/media/c8knYYZ5vzC8V6tpMI/giphy.gif" width="15" height="15"> **Github Stats:**
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akhil-ge0rge/akhil-ge0rge/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akhil-ge0rge/akhil-ge0rge/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akhil-ge0rge/akhil-ge0rge/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammedirshadkp/mohammedirshadkp/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammedirshadkp/mohammedirshadkp/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mohammedirshadkp/mohammedirshadkp/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
 <br />
