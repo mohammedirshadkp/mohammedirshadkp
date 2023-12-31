@@ -1,48 +1,25 @@
-<h5 align="left">✋Hi Hello World! I'm Mohammed Irshad, a passionate Flutter developer on a journey to craft innovative and seamless mobile experiences.</h5>
-<h5 align="left">🌟 As an advocate for best practices, I'm committed to delivering high-quality apps that marry functionality with aesthetics. From concept to deployment, I enjoy every step of the development process.
-</h5>
+<h5 align="left">✋ Hi Hello World! I'm Mohammed Irshad, a passionate Flutter developer on a journey to craft innovative and seamless mobile experiences.</h5>
+<h5 align="left">🌟 As an advocate for best practices, I'm committed to delivering high-quality apps that marry functionality with aesthetics. From concept to deployment, I enjoy every step of the development process.</h5>
 
-###
+<br />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammedirshadkp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedirshadkp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> 
 </div>
 
-###
-
-<div align="center">
-  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammedirshadkp&show_icons=true)
-</div>
-
-###
+<br />
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <!-- Add other icons -->
 </div>
+
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedirshadkp&theme=radical"/>
 </p>
 
-###
+<br />
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mohammed-irshad-a652b1298">
@@ -55,10 +32,12 @@
 
 <br clear="both">
 
-
-
-###
-
-
-
-###
+<div align="center">
+  <img src="https://media.giphy.com/media/c8knYYZ5vzC8V6tpMI/giphy.gif" width="15" height="15"> **Github Stats:**
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammedirshadkp/mohammedirshadkp/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammedirshadkp/mohammedirshadkp/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mohammedirshadkp/mohammedirshadkp/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+<br />
