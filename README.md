@@ -60,7 +60,6 @@
 </picture>
 </div>
 <br />
-<details>
 
 ###
 
