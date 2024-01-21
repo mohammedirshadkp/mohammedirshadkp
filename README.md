@@ -1,7 +1,7 @@
-<h5 align="left">✋Hi Hello World! I'm Mohammed Irshad, a passionate Flutter developer on a journey to craft innovative and seamless mobile experiences.</h5>
-<h5 align="left">🌟 As an advocate for best practices, I'm committed to delivering high-quality apps that marry functionality with aesthetics. From concept to deployment, I enjoy every step of the development process.
-</h5>
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=FF007F&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Mohammed+Irshad!;" />
+</h1>
+ <!--- <h3 align="center"></h3> --->
 ###
 
 <div align="center">
