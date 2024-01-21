@@ -3,15 +3,17 @@
 </h1>
  <!--- <h3 align="center"></h3> --->
 
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammedirshadkp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+
+###
     
- <!--- <h3 align="center"></h3> --->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedirshadkp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
- <!--- <h3 align="center"></h3> --->
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
@@ -38,8 +40,7 @@
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedirshadkp&theme=radical"/>
 </p>
 
-
- <!--- <h3 align="center"></h3> --->
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mohammed-irshad-a652b1298">
