@@ -41,7 +41,3 @@
   </a>
 </div>
 <br clear="both">
-
-###
-
-![Snake animation](https://github.com/mohammedirshadkp/mohammedirshadkp/blob/output/github-contribution-grid-snake.svg)
