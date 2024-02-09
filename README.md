@@ -4,8 +4,11 @@
  <!--- <h3 align="center"></h3> -->
 
 ###
-  <h3 align="center">✨ <a href="https://irshaad.web.app/" target="_blank">Portfolio</a> ✨</h3>
+
+  <h3 align="center">😎 <a href="https://irshaad.web.app/" target="_blank">Portfolio</a> 😎</h3>
+  
 ###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
   <img width="12" />
