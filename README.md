@@ -5,7 +5,7 @@
 
 ###
 
-  <h3 align="center">😎 <a href="https://irshaad.web.app/" target="_blank">Portfolio</a> 😎</h3>
+  
   
 ###
 
