@@ -30,7 +30,6 @@
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedirshadkp&theme=radical"/>
 </p>
 
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mohammed-irshad-a652b1298">
