@@ -43,4 +43,4 @@
 
 ###
 
-<h3 align="center">🌐 <a href="https://irshaad.web.app/" target="_blank">Irshad.Com</a> 🌐</h3>
+<h3 align="center">🌐 <a href="https://irshaad.web.app/" target="_blank">irshad.com</a> 🌐</h3>
