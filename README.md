@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=0xFF64FFDA&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Mohammed+Irshad!;" />
 </h1>
 
-###
+##
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
