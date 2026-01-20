@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedirshadkp&theme=radical"/>
+  <img align="center" src="https://streak-stats.demolab.com/?user=mohammedirshadkp&theme=radical" />
 </p>
 
 
