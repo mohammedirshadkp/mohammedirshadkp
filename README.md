@@ -27,59 +27,8 @@
 <br/>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mohammedirshadkp&theme=radical" />
+  <img align="center" src="https://github-readme-streak-stats-seven.vercel.app?user=mohammedirshadkp&theme=radical" />
 </p>
-
----
-
-## 🧩 Skills
-<div align="center">
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
----
-
-## 🧰 Tools I Use
-<div align="center">
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-
-</div>
-
----
-
-## 📈 GitHub Activity Graph
-[![Irshad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammedirshadkp&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 💬 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 🏅 GitHub Trophies
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=mohammedirshadkp&theme=radical&no-frame=true&margin-w=15)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-![snake gif](https://github.com/mohammedirshadkp/mohammedirshadkp/blob/output/github-contribution-grid-snake.svg)
-
----
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mohammed-irshad-a652b1298">
@@ -89,5 +38,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
+
+<br clear="both">
 
 <h3 align="center">🌐 <a href="https://irshaad.web.app/" target="_blank">irshad.com</a> 🌐</h3>
